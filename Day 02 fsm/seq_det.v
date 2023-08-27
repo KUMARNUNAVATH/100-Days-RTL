@@ -1,3 +1,4 @@
+// rtl code for 1101
 module seq_det(clk,rst,in,out);
 input clk,rst,in;
 output  out;
